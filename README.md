@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/angulardevops/hangover-beer/tree/master.svg?style=shield)](https://circleci.com/gh/angulardevops/hangover-beer/tree/master)
+
 # HangoverBeer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
